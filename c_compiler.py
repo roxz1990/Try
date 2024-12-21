@@ -63,7 +63,7 @@ async def handle_c_file(update: Update, context: CallbackContext) -> None:
 # Main function to run the bot
 def main():
     # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-    bot_token = "7645973750:AAHpQkqwMsZjeV9qstfN13OaYAhDGHudCXc"
+    bot_token = "8057041244:AAEHcH2JfuCJ2H9eGPK8jeXAfFft80pFSlQ"
     application = Application.builder().token(bot_token).build()
 
     # Add command and file handlers
